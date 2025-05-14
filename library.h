@@ -1,0 +1,6 @@
+#ifndef SUPERTRUNFO_LIBRARY_H
+#define SUPERTRUNFO_LIBRARY_H
+
+void hello(void);
+
+#endif //SUPERTRUNFO_LIBRARY_H
